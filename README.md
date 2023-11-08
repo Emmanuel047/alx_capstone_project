@@ -17,10 +17,7 @@ This project is built using the following tools and technologies:
 
 1. HTML: For structuring the content of the web pages.
 2. CSS: For styling and designing the page.
-3. JavaScript: For adding interactivity and enhancing user experience.
-4. Python: Used with Flask for Backend Development of the application.
-5. Flask: For handling form submission.
-6. Git: Version control for code management.
+3. Git: Version control for code management.
 
 FUTURER IMPROVEMENT
 In future versions, I aim to add more features such as:
@@ -31,8 +28,8 @@ In future versions, I aim to add more features such as:
 - Incorporate SEO best practices to improve search engine visibility.
 
 Contact Infromation
-Author - Emmanuel Mwendwa
-Email - emmwenda@gmail.com
-Phone Number - +254114469397
-Address - P.O Box 806-807, Nairobi, Kenya
-Copyright © 2021 Emmanuel Mwendwa
+- Author - Emmanuel Mwendwa
+- Email - emmwenda@gmail.com
+- Phone Number - +254114469397
+- Address - P.O Box 806-807, Nairobi, Kenya
+- Copyright © 2021 Emmanuel Mwendwa
