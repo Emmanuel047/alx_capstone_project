@@ -29,7 +29,7 @@ In future versions, I aim to add more features such as:
 
 Contact Infromation
 - Author - Emmanuel Mwendwa
-- Email - emmwenda@gmail.com
+- Email - emmwendwa007@gmail.com
 - Phone Number - +254114469397
 - Address - P.O, Box 00000 Nairobi, Kenya
 - Copyright © 2021 Emmanuel Mwendwa
