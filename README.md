@@ -31,5 +31,7 @@ Contact Infromation
 - Author - Emmanuel Mwendwa
 - Email - emmwenda@gmail.com
 - Phone Number - +254114469397
-- Address - P.O Box 806-807, Nairobi, Kenya
+- Address - P.O, Box 00000 Nairobi, Kenya
 - Copyright © 2021 Emmanuel Mwendwa
+- Twitter - https://twitter.com/Emwendwake
+- Linkden - https://www.linkedin.com/in/emmanuelmwendwa
