@@ -29,3 +29,10 @@ In future versions, I aim to add more features such as:
 - Improve the UI by making it more visually appealing.
 - Add animations and transitions to enhance user interaction.
 - Incorporate SEO best practices to improve search engine visibility.
+
+Contact Infromation
+Author - Emmanuel Mwendwa
+Email - emmwenda@gmail.com
+Phone Number - +254114469397
+Address - P.O Box 806-807, Nairobi, Kenya
+Copyright © 2021 Emmanuel Mwendwa
