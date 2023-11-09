@@ -13,7 +13,7 @@
 } 
 
 ::-webkit-scrollbar-thumb {
-    background: #B70CF7;
+    background: #0cccf7;
     border-radius: 5rem;
 }
 
@@ -44,7 +44,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(../DERRY/IMAGES/background-image.jpg);
+    background-image: url(Images\emm.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -83,7 +83,7 @@ nav ul li a::after {
     content: '';
     width: 0;
     height: 3px;
-    background: #AC0DAC;
+    background: #ac6d0d;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -111,7 +111,7 @@ nav ul li a:hover::after {
 }
 
 .header-title h1 span {
-    color: #AC0DAC;
+    color: #100dac;
 }
 
 .social-icons {
@@ -122,7 +122,7 @@ nav ul li a:hover::after {
     text-decoration: none;
     font-size: 3opx;
     margin-right: 15px;
-    color: #AC0DAC;
+    color: #0dac47;
     display: inline-block;
     transition: transform 0.5s;
 }
@@ -142,7 +142,7 @@ nav ul li a:hover::after {
 
 #about {
     padding: 40px 0;
-    background-color: #AC0DAC;
+    background-color: #ac0d0d;
     color: #ffffff;
 }
 
@@ -333,14 +333,14 @@ nav ul li a:hover::after {
 
 #project {
     padding: 50px 0;
-    background-color: #AC0DAC;
+    background-color: #ac8f0d;
 }
 
 .project-title{
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #ffffff;
+    color: #141212;
     font-size: 15px;
     margin-top: 10px;
     margin-bottom: 15px;
@@ -417,7 +417,7 @@ nav ul li a:hover::after {
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid #c01dc0;
+    border: 1px solid #1daac0;
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
@@ -426,7 +426,7 @@ nav ul li a:hover::after {
 }
 
 .button:hover {
-    background: #AC0DAC;
+    background: #ac0d0d;
 }
 /*===================================================== End of Projects Section =====================================*/
 
