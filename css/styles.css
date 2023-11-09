@@ -13,7 +13,7 @@
 } 
 
 ::-webkit-scrollbar-thumb {
-    background: #0cccf7;
+    background: #f70c0c;
     border-radius: 5rem;
 }
 
@@ -122,7 +122,7 @@ nav ul li a:hover::after {
     text-decoration: none;
     font-size: 3opx;
     margin-right: 15px;
-    color: #0dac47;
+    color: #ac0d22;
     display: inline-block;
     transition: transform 0.5s;
 }
@@ -239,7 +239,7 @@ nav ul li a:hover::after {
     display: flex;
     align-items: center;
     justify-content: center;
-    color:#AC0DAC;
+    color:#ac0d0d;
     font-size: 15px;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -279,7 +279,7 @@ nav ul li a:hover::after {
     height: 100%;
     position: absolute;
     left: 0;
-    background: #AC0DAC;
+    background: #ac0d0d;
     border-radius: 25px;
     box-shadow: #868485;
 }
@@ -333,7 +333,7 @@ nav ul li a:hover::after {
 
 #project {
     padding: 50px 0;
-    background-color: #ac8f0d;
+    background-color: #ac0d0d;
 }
 
 .project-title{
@@ -417,7 +417,7 @@ nav ul li a:hover::after {
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid #1daac0;
+    border: 1px solid #161414;
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
@@ -441,7 +441,7 @@ nav ul li a:hover::after {
     display: flex;
     align-items: center;
     justify-content: center;
-    color:#AC0DAC;
+    color:#030303;
     font-size: 15px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -473,7 +473,7 @@ nav ul li a:hover::after {
 
 form input, form textarea {
     width: 100%;
-    border-color: #AC0DAC;
+    border-color: #ac0d12;
     padding: 15px;
     margin: 15px 0;
     color: #000000;
@@ -485,7 +485,7 @@ form input, form textarea {
 
 .button.button2 {
     display: inline-block;
-    background: #AC0DAC;
+    background: #ac0d18;
     color: #ffffff;
 }
 
@@ -509,7 +509,7 @@ form .button2 {
 
 
 .contact-me p i{
-    color: #AC0DAC;
+    color: #ac0d0d;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -522,7 +522,7 @@ form .button2 {
 #footer {
     padding: 10px 10%;
     margin: 0 auto;
-    background-color: #AC0DAC;
+    background-color: #ac0d0d;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -534,7 +534,7 @@ footer a {
     display: inline-flex;
     justify-content: center;
     background-color: #ffffff;
-    color: #B70CF7;
+    color: #f70c0c;
     padding: .6rem;
     border-radius: 5px;
 }
@@ -551,7 +551,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(../DERRY/IMAGES/smallbackground-image.jpg);
+        background-image: url(Images\emm.jpg);
     }
 
     .header-container {
